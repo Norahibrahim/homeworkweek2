@@ -1,0 +1,9 @@
+n Dart, 
+the extends keyword is typically used to alter the behavior of a class using Inheritance.  The capability of a class to derive properties and characteristics from another class is called Inheritance.
+
+
+
+
+ 
+
+The implement keyword is used to implement an interface by forcing the redefinition of the functions.
