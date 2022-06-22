@@ -1,0 +1,14 @@
+
+
+Flutter
+Every things in flutter is Widgets
+SUCH AS ; appbar , column , counter , logo,icon, image ,bottun , text….
+Widgets has 2 of types :
+Stateless widget
+Stateful widget
+How to build in flutter ?
+Its important to import matrial.dart 
+Main() its start to program 
+RunApp include MyApp is name of program
+Martial app = homepage  include : title , theme , home
+Scaffold include the Body of program
